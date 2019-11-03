@@ -1,0 +1,394 @@
+[
+  {
+    "Nome": "Adriana Valéria de Albuquerque (Cloves)",
+    "ID": 42539910,
+    "Senha": "#123Cloves",
+    "Patrocinador": "Maria Aparecida Tenorio Santana",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Ana Vitória Imperiano da Silva (Márcio)",
+    "ID": 42477940,
+    "Senha": "#123Marcio",
+    "Patrocinador": "Joab Bezerra Brito",
+    "Lado": "E",
+    "Nível": 2
+  },
+  {
+    "Nome": "Claudenor dos Santos Fernandes",
+    "ID": 42538191,
+    "Senha": "#123Vinicio",
+    "Patrocinador": "Claudiana Maria da Silva Pereira (Helena)",
+    "Lado": "D",
+    "Nível": 2
+  },
+  {
+    "Nome": "Claudiana Maria da Silva Pereira (Helena)",
+    "ID": 42486539,
+    "Senha": "#123Helena",
+    "Patrocinador": "Veroneide Ramos da Silva (Marco)",
+    "Lado": "D",
+    "Nível": 1
+  },
+  {
+    "Nome": "Fabiana Oliveira da Costa",
+    "ID": 42479830,
+    "Senha": "#123Fabiana",
+    "Patrocinador": "Felipe da Silva Colaço (Danilo)",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Fabiana Silva Araújo",
+    "ID": 42493229,
+    "Senha": "#123Fabiana",
+    "Patrocinador": "Maria Luzinete Barbosa (Alisson)",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "Felipe da Silva Colaço (Danilo)",
+    "ID": 42479371,
+    "Senha": "#123Danilo",
+    "Patrocinador": "Najara Taglia Guimarães Rodrigues",
+    "Lado": "E",
+    "Nível": 3
+  },
+  {
+    "Nome": "Gilda Paiva Santos",
+    "ID": 42481113,
+    "Senha": "#123Gilda",
+    "Patrocinador": "Ketlin Ribeiro de Almeida",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Givailda Valdevino da Silva",
+    "ID": 42478600,
+    "Senha": "#123Givailda",
+    "Patrocinador": "Ana Vitória Imperiano da Silva (Márcio)",
+    "Lado": "D",
+    "Nível": 3
+  },
+  {
+    "Nome": "Hayane Kelly Xavier Ramos",
+    "ID": 42479136,
+    "Senha": "#123Hayane",
+    "Patrocinador": "Heronilda Bezerra Rocha",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "Heronilda Bezerra Rocha",
+    "ID": 42478125,
+    "Senha": "#123Heronilda",
+    "Patrocinador": "Najara Taglia Guimarães Rodrigues",
+    "Lado": "D",
+    "Nível": 3
+  },
+  {
+    "Nome": "Jacinta de Fátima Coelho",
+    "ID": 42538212,
+    "Senha": "#123Jacinta",
+    "Patrocinador": "Claudiana Maria da Silva Pereira (Helena)",
+    "Lado": "E",
+    "Nível": 2
+  },
+  {
+    "Nome": "Jeane da Silva Macedo",
+    "ID": 42531512,
+    "Senha": "#123Jeane",
+    "Patrocinador": "Maria Beserra de Oliveira (Magnata)",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Joab Bezerra Brito",
+    "ID": 42477405,
+    "Senha": "#123Joab",
+    "Patrocinador": "Veroneide Ramos da Silva (Marco)",
+    "Lado": "E",
+    "Nível": 1
+  },
+  {
+    "Nome": "José Abraão do Nascimento Neiva",
+    "ID": 42481682,
+    "Senha": "#123Abraao",
+    "Patrocinador": "Ketlin Ribeiro de Almeida",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "José Flávio Cavalcante Soares",
+    "ID": 41883663,
+    "Senha": "#123Flavio",
+    "Patrocinador": "Ruan dos Santos Ribeiro (Quitério)",
+    "Lado": "D",
+    "Nível": 2
+  },
+  {
+    "Nome": "Juliana Barbosa da Silva",
+    "ID": 42486096,
+    "Senha": "#123Juliana",
+    "Patrocinador": "Maria Aparecida Tenorio Santana",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "Ketlin Ribeiro de Almeida",
+    "ID": 42478803,
+    "Senha": "#123Ketlin",
+    "Patrocinador": "Ana Vitória Imperiano da Silva (Márcio)",
+    "Lado": "E",
+    "Nível": 3
+  },
+  {
+    "Nome": "Larissa Santos de Lima Costa",
+    "ID": 42482212,
+    "Senha": "#123Larissa",
+    "Patrocinador": "Heronilda Bezerra Rocha",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Leidiana dos Santos Silva",
+    "ID": 41883970,
+    "Senha": "#123Leidiana",
+    "Patrocinador": "Ruan dos Santos Ribeiro (Quitério)",
+    "Lado": "E",
+    "Nível": 2
+  },
+  {
+    "Nome": "Lizandra Kelly Batista Medeiros",
+    "ID": 42479996,
+    "Senha": "#123Lizandra",
+    "Patrocinador": "Felipe da Silva Colaço (Danilo)",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "Lucimar Sousa Silva",
+    "ID": 42481287,
+    "Senha": "#123Lucimar",
+    "Patrocinador": "Ketlin Ribeiro de Almeida",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "Maria Aparecida Tenorio Santana",
+    "ID": 42485800,
+    "Senha": "#123Cida",
+    "Patrocinador": "Paula Roberta Barbosa",
+    "Lado": "D",
+    "Nível": 3
+  },
+  {
+    "Nome": "Maria Beserra de Oliveira (Magnata)",
+    "ID": 42483830,
+    "Senha": "#123Magnata",
+    "Patrocinador": "Rita Maria da Silva Oliveira (Vanessa)",
+    "Lado": "D",
+    "Nível": 2
+  },
+  {
+    "Nome": "Maria das Dores Nascimento da Silva",
+    "ID": 42531846,
+    "Senha": "#123Maria",
+    "Patrocinador": "Jeane da Silva Macedo",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Maria de Fátima Santiago",
+    "ID": 42489140,
+    "Senha": "#123Fatima",
+    "Patrocinador": "Renata Sales Oliveira (Reynam)",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "Maria de Lourdes de Araújo Guimarães",
+    "ID": 42531694,
+    "Senha": "#123Maria",
+    "Patrocinador": "Jeane da Silva Macedo",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "Maria Janaina da Silva",
+    "ID": 42913473,
+    "Senha": "#123Janaina",
+    "Patrocinador": "Fabiana Oliveira da Costa",
+    "Lado": "E",
+    "Nível": 5
+  },
+  {
+    "Nome": "Maria Lucila da Silva Colaço",
+    "ID": 42493210,
+    "Senha": "#123Lucila",
+    "Patrocinador": "Maria Luzinete Barbosa (Alisson)",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "Maria Luzinete Barbosa (Alisson)",
+    "ID": 42493202,
+    "Senha": "#123Alisson",
+    "Patrocinador": "Paula Roberta Barbosa",
+    "Lado": "E",
+    "Nível": 3
+  },
+  {
+    "Nome": "Messias Batista Nogueira",
+    "ID": 42481498,
+    "Senha": "#123Messias",
+    "Patrocinador": "Heronilda Bezerra Rocha",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Mônica Valéria de Albuquerque",
+    "ID": 42535716,
+    "Senha": "#123Monica",
+    "Patrocinador": "Givailda Valdevino da Silva",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Najara Taglia Guimarães Rodrigues",
+    "ID": 42477771,
+    "Senha": "#123Najara",
+    "Patrocinador": "Joab Bezerra Brito",
+    "Lado": "D",
+    "Nível": 2
+  },
+  {
+    "Nome": "Natália Vitória Tenório Santana",
+    "ID": 42485923,
+    "Senha": "#123Natalia",
+    "Patrocinador": "Maria Aparecida Tenorio Santana",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Paula Roberta Barbosa",
+    "ID": 42485632,
+    "Senha": "#123Roberta",
+    "Patrocinador": "Rita Maria da Silva Oliveira (Vanessa)",
+    "Lado": "E",
+    "Nível": 2
+  },
+  {
+    "Nome": "Paulo de Assis Queiroz",
+    "ID": 42479620,
+    "Senha": "#123Paulo",
+    "Patrocinador": "Felipe da Silva Colaço (Danilo)",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Raquel Campos Oliveira",
+    "ID": 42531782,
+    "Senha": "#123Raquel",
+    "Patrocinador": "Jeane da Silva Macedo",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Renata Claudia Balbino Almeida",
+    "ID": 42493245,
+    "Senha": "#123Renata",
+    "Patrocinador": "Maria Luzinete Barbosa (Alisson)",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Renata Sales Oliveira (Reynam)",
+    "ID": 42484146,
+    "Senha": "#123Reynam",
+    "Patrocinador": "Maria Beserra de Oliveira (Magnata)",
+    "Lado": "E",
+    "Nível": 3
+  },
+  {
+    "Nome": "Rita Maria da Silva Oliveira (Vanessa)",
+    "ID": 42482052,
+    "Senha": "#123Vanessa",
+    "Patrocinador": "Veroneide Ramos da Silva (Marco)",
+    "Lado": "D",
+    "Nível": 1
+  },
+  {
+    "Nome": "Ruan dos Santos Ribeiro (Quitério)",
+    "ID": 41863603,
+    "Senha": "#123Quiterio",
+    "Patrocinador": "Veroneide Ramos da Silva (Marco)",
+    "Lado": "E",
+    "Nível": 1
+  },
+  {
+    "Nome": "Sueli Tavares Lins",
+    "ID": 42531942,
+    "Senha": "#123Sueli",
+    "Patrocinador": "Renata Sales Oliveira (Reynam)",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "Thiago Douglas Almeida Lima",
+    "ID": 42538870,
+    "Senha": "#123Thiago",
+    "Patrocinador": "Claudiana Maria da Silva Pereira (Helena)",
+    "Lado": "E",
+    "Nível": 2
+  },
+  {
+    "Nome": "Valquíria Correia Josué Santigao",
+    "ID": 42535636,
+    "Senha": "#123Valquiria",
+    "Patrocinador": "Givailda Valdevino da Silva",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Vera Lúcia Rodrigues dos Santos",
+    "ID": 42480575,
+    "Senha": "#123Vera",
+    "Patrocinador": "Givailda Valdevino da Silva",
+    "Lado": "E",
+    "Nível": 4
+  },
+  {
+    "Nome": "Veroneide Ramos da Silva (Marco)",
+    "ID": 41863195,
+    "Senha": "#123Marco",
+    "Patrocinador": "Micheline/Rani",
+    "Lado": "",
+    "Nível": 0
+  },
+  {
+    "Nome": "Wilton Maia Velez (Adriana)",
+    "ID": 42484242,
+    "Senha": "#123Adriana",
+    "Patrocinador": "Renata Sales Oliveira (Reynam)",
+    "Lado": "D",
+    "Nível": 4
+  },
+  {
+    "Nome": "Thalyta Haynnelds Farias Souza Silva",
+    "ID": null,
+    "Senha": "#123Thalyta",
+    "Patrocinador": "Leidiana dos Santos Silva",
+    "Lado": "D",
+    "Nível": 3
+  },
+  {
+    "Nome": "Djair Silva Damião",
+    "ID": null,
+    "Senha": "#123Djair",
+    "Patrocinador": "Leidiana dos Santos Silva",
+    "Lado": "E",
+    "Nível": 3
+  }
+]
